@@ -1,0 +1,32 @@
+.main-content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section-description {
+    display: flex;
+    margin-top: 50px;
+}
+
+.section-title {
+    margin-right: 15px;
+}
+
+.section-title h2.title-car {
+    margin-left: 20px;
+}
+
+.section-title h1.title {
+    font-size: 56px;
+    border-right: 6px solid var(--black);
+    width: 400px;
+    color: var(--white);
+}
+
+.section-paragraph {
+    height: 245px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: var(--white);
+}

@@ -1,0 +1,14 @@
+.banner {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    height: 300px;
+}
+
+.banner img {
+    height: 370px;
+    margin-top: -10px;
+    width: 420px;;
+}

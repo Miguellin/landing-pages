@@ -1,0 +1,23 @@
+.footer {
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 0;
+    background-color: var(--black);
+    margin-top: 30px;
+}
+
+.footer-logo {
+    margin-left: 20px;
+}
+
+.footer-autor .autor {
+    color: var(--white);
+    font-weight: bold;
+}
+.footer-social {
+    display: flex;
+    margin-right: 20px;
+}
